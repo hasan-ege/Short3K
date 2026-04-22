@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Short3K</string>
+    <string name="settings">Ayarlar</string>
+    <string name="library">Kütüphane</string>
+    <string name="search_hint">Ara...</string>
+    <string name="gen_all">Tümünü Üret</string>
+    <string name="refresh">Yenile</string>
+    <string name="vita_path">Vita3K Uygulama Yolu</string>
+    <string name="vita_desc">Vita3K oyunlarının yüklü olduğu klasör (ux0/app).</string>
+    <string name="select_vita_folder">Vita3K Klasörünü Seç</string>
+    <string name="shortcut_path">Kısayol Çıkış Yolu</string>
+    <string name="shortcut_desc">.psvita kısayol dosyalarının üretileceği klasör.</string>
+    <string name="select_shortcut_folder">Kısayol Klasörünü Seç</string>
+    <string name="app_lang">Uygulama Dili</string>
+    <string name="lang_desc">Tercih ettiğiniz dili seçin</string>
+    <string name="no_games">Oyun Bulunamadı</string>
+    <string name="set_paths_desc">Lütfen yolları Ayarlar\'dan belirleyin</string>
+    <string name="open_settings">Ayarları Aç</string>
+    <string name="shortcut_created">Kısayol oluşturuldu</string>
+    <string name="already_exists">Kısayol zaten mevcut:</string>
+    <string name="missing_warning">Kısayol var ama oyun Vita3K\'da bulunamadı!</string>
+    <string name="game_missing">OYUN KAYIP</string>
+    <string name="library_refreshed">Kütüphane Yenilendi</string>
+    <string name="gen_count">%1$d kısayol oluşturuldu!</string>
+    <string name="select_folder_first">Önce Kısayol Klasörünü seçin!</string>
+    <string name="shortcut_exists">Kısayol Mevcut</string>
+    <string name="not_selected">Seçilmedi</string>
+    <string name="path_display">Seçili: %1$s</string>
+    <string name="vita_path_example">Örnek: /Android/data/org.vita3k.emulator/files/vita/ux0/app</string>
+    <string name="shortcut_path_example">Örnek: /Documents/PSVitaShortcuts</string>
+</resources>

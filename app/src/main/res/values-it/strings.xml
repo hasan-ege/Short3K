@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Short3K</string>
+    <string name="library_refreshed">Library Refreshed</string>
+    <string name="library">Library</string>
+    <string name="missing_warning">Shortcut exists but game is not found in Vita3K!</string>
+    <string name="select_folder_first">Please select a Shortcut Folder first!</string>
+    <string name="already_exists">Shortcut already exists for</string>
+    <string name="shortcut_created">Shortcut created</string>
+    <string name="gen_count">Generated %1$d shortcuts!</string>
+</resources>

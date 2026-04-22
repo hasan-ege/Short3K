@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Short3K</string>
+    <string name="settings">Настройки</string>
+    <string name="library">Библиотека</string>
+    <string name="search_hint">Поиск...</string>
+    <string name="gen_all">Создать все</string>
+    <string name="refresh">Обновить</string>
+    <string name="vita_path">Путь Vita3K</string>
+    <string name="vita_desc">Папка с играми Vita3K (ux0/app).</string>
+    <string name="select_vita_folder">Выбрать папку Vita3K</string>
+    <string name="shortcut_path">Путь экспорта</string>
+    <string name="shortcut_desc">Папка для ярлыков .psvita.</string>
+    <string name="select_shortcut_folder">Выбрать папку экспорта</string>
+    <string name="app_lang">Язык</string>
+    <string name="lang_desc">Выберите язык</string>
+    <string name="no_games">Игры не найдены</string>
+    <string name="set_paths_desc">Укажите пути в настройках</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="shortcut_created">Ярлык создан</string>
+    <string name="already_exists">Ярлык уже существует для</string>
+    <string name="missing_warning">Ярлык есть, но игра не найдена в Vita3K!</string>
+    <string name="game_missing">ИГРА ОТСУТСТВУЕТ</string>
+    <string name="library_refreshed">Библиотека обновлена</string>
+    <string name="gen_count">Создано %1$d ярлыков!</string>
+    <string name="select_folder_first">Сначала выберите папку ярлыков!</string>
+</resources>

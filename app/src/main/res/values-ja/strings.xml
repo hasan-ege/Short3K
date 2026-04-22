@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Short3K</string>
+    <string name="settings">設定</string>
+    <string name="library">ライブラリ</string>
+    <string name="search_hint">検索...</string>
+    <string name="gen_all">全生成</string>
+    <string name="refresh">更新</string>
+    <string name="vita_path">Vita3Kパス</string>
+    <string name="vita_desc">Vita3Kゲームフォルダ (ux0/app)。</string>
+    <string name="select_vita_folder">Vita3Kフォルダを選択</string>
+    <string name="shortcut_path">エクスポートパス</string>
+    <string name="shortcut_desc">.psvitaショートカットの出力先。</string>
+    <string name="select_shortcut_folder">エクスポートフォルダを選択</string>
+    <string name="app_lang">言語</string>
+    <string name="lang_desc">言語を選択してください</string>
+    <string name="no_games">ゲームが見つかりません</string>
+    <string name="set_paths_desc">設定でパスを指定してください</string>
+    <string name="open_settings">設定を開く</string>
+    <string name="shortcut_created">ショートカット作成済み</string>
+    <string name="already_exists">既にショートカットが存在します：</string>
+    <string name="missing_warning">ショートカットはありますがゲームが見つかりません！</string>
+    <string name="game_missing">ゲーム不明</string>
+    <string name="library_refreshed">ライブラリを更新しました</string>
+    <string name="gen_count">%1$d件のショートカットを作成しました！</string>
+    <string name="select_folder_first">まずショートカットフォルダを選択してください！</string>
+</resources>

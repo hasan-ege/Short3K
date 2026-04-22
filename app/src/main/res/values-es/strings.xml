@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Short3K</string>
+    <string name="settings">Ajustes</string>
+    <string name="library">Biblioteca</string>
+    <string name="search_hint">Buscar...</string>
+    <string name="gen_all">Gen. todo</string>
+    <string name="refresh">Refrescar</string>
+    <string name="vita_path">Ruta Vita3K</string>
+    <string name="vita_desc">Carpeta de juegos Vita3K (ux0/app).</string>
+    <string name="select_vita_folder">Elegir carpeta Vita3K</string>
+    <string name="shortcut_path">Ruta de exportación</string>
+    <string name="shortcut_desc">Carpeta para accesos directos .psvita.</string>
+    <string name="select_shortcut_folder">Elegir carpeta de exportación</string>
+    <string name="app_lang">Idioma</string>
+    <string name="lang_desc">Elija su idioma</string>
+    <string name="no_games">No se found games</string>
+    <string name="set_paths_desc">Definir rutas en ajustes</string>
+    <string name="open_settings">Abrir ajustes</string>
+    <string name="shortcut_created">Acceso directo creado</string>
+    <string name="game_missing">JUEGO PERDIDO</string>
+    <string name="library_refreshed">Biblioteca refrescada</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Short3K</string>
+    <string name="library">库</string>
+    <string name="library_refreshed">库已刷新</string>
+    <string name="missing_warning">快捷方式存在，但在 Vita3K 中未找到游戏！</string>
+    <string name="select_folder_first">请先选择快捷方式文件夹！</string>
+    <string name="already_exists">快捷方式已存在于</string>
+    <string name="shortcut_created">已创建快捷方式</string>
+    <string name="gen_count">已生成 %1$d 个快捷方式！</string>
+</resources>
