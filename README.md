@@ -38,7 +38,8 @@ Select the root folder where your Vita3K `ux0` data is stored.
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e7a99bac-cdcc-432c-9a73-4681ea52d2f8" />
 <img width="1920" height="1080" alt="Screenshot_20260422-212616" src="https://github.com/user-attachments/assets/d9e319d1-e6bf-4c10-add0-7f3414f2f09c" />
 <img width="1920" height="1080" alt="Screenshot_20260422-212629" src="https://github.com/user-attachments/assets/5baa0656-d1ee-431b-ad4b-f80c91957a84" />
-<img width="1920" height="1080" alt="Screenshot_20260422-212635" src="https://github.com/user-attachments/assets/dfef6575-78b9-48ce-b781-47732f1db408" />
+<img width="1920" height="1080" alt="Screenshot_20260422-212635" src="https://github.com/user-attachments/assets/7ca607e7-f064-4caa-a7b2-1dccac3b6a4a" />
+
 
 
 
