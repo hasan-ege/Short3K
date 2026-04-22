@@ -36,6 +36,11 @@ To initialize the application, you must provide access to your Vita3K data direc
 Select the root folder where your Vita3K `ux0` data is stored.
 <img width="1920" height="1080" alt="0" src="https://github.com/user-attachments/assets/4aa2ab5c-1542-43b9-99c3-417c861a852f" />
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e7a99bac-cdcc-432c-9a73-4681ea52d2f8" />
+<img width="1920" height="1080" alt="Screenshot_20260422-212616" src="https://github.com/user-attachments/assets/d40defa1-58b1-45a2-a5fd-7932b6852da0" />
+<img width="1920" height="1080" alt="Screenshot_20260422-212635" src="https://github.com/user-attachments/assets/07a32b68-f6ee-470c-be28-6d4e818b062b" />
+<img width="1920" height="1080" alt="Screenshot_20260422-212629" src="https://github.com/user-attachments/assets/a11433c2-35b8-49df-951f-0700c2c7a0c6" />
+
+
 
 ---
 
